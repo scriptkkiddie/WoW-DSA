@@ -7,6 +7,12 @@ WoW-DSA is all-in-one repository curated with the most relevant, updated, and we
 S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
+## Shortcuts
+
+Topic | Description
+--- | ---
+[101](101\README.MD) | Fundamentals
+
 ## References
 
 ## Author(s)
