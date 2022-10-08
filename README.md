@@ -21,6 +21,7 @@ Topic | Description
 Check Roadmap [here](_Roadmap/README.MD)
 
 ## References
+- https://www.technical0812.com/post/dsa-is-not-a-rocket-science
 
 ## Author(s)
 
