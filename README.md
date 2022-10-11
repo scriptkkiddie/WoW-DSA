@@ -6,6 +6,7 @@ WoW-DSA (Data Structures & Algorithms) is all-in-one repository curated with the
 
 S.No. | Content/Topic | Additional Comment
 --- | --- | ---
+1\. | [DSA isn't a Rocket Science](https://www.technical0812.com/post/dsa-is-not-a-rocket-science) | 
 
 ## Shortcuts
 
